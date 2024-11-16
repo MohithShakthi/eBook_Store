@@ -13,9 +13,8 @@ Manisha
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Folder Structure](#folder-structure)
-- [Getting Started](#How-to-run-this-project)
+- [How to run this project locally](#How-to-run-this-project)
 - [Contributing](#contributing)
-- [License](#license)
 - [Demo](#Demo)
 
 ## Features
@@ -104,5 +103,10 @@ JWT_SECRET_KEY = 'bc992a20cb6706f741433686be814e3df45e57ea1c2fc85f9dbb0ef7df1230
 We welcome contributions from the community! If you'd like to contribute to the project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## Demo
-![Screenshot (421)](https://github.com/user-attachments/assets/125126ca-cfb5-4816-a8a5-68d9a928ec71)
-
+![Screenshot (422)](https://github.com/user-attachments/assets/e16153b0-3061-40f1-aeb4-aa69d9924eeb)
+![Screenshot (424)](https://github.com/user-attachments/assets/0831e06f-b633-4c92-b751-8e426311af23)
+![Screenshot (425)](https://github.com/user-attachments/assets/ff27a91a-fb5d-4cb7-a1ab-c52624dab68c)
+![Screenshot (427)](https://github.com/user-attachments/assets/433ab1e3-7ea9-466e-94fb-e1eef448c46b)
+![Screenshot (432)](https://github.com/user-attachments/assets/eaebebf6-ae6f-48ae-b8e4-89a1465216b7)
+![Screenshot (433)](https://github.com/user-attachments/assets/26a8cbb7-4049-44e5-b579-64eaaaba8bd1)
+![Screenshot (434)](https://github.com/user-attachments/assets/2a725d88-b910-4564-b91d-21d98cb6d8ef)
